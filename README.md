@@ -1,4 +1,4 @@
-# DependencyDay
+# DependenceDay
 
 DependenceDay is a packge for dependency injection in SwiftUI Apps.
 
